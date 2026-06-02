@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Kasih Tak sampai',
-    artist:    'Padi',
+    title:     'Day & Night',
+    artist:    ' ',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
